@@ -2,4 +2,4 @@
 
 # Screenshots
 
-<img as="as/1.png">
+<img src="src/1.png">
